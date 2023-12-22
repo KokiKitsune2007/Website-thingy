@@ -6,7 +6,8 @@ h1 {
   color: #008080;
   border-radius: 16px;
   border-color: #36454F;
-  shadow: 2px 2px 4px #000000;
+  border: none;
+  text-shadow: 2px 2px 4px #000000;
 }
 .Square {
 animation: spin 4s linear infinite;
