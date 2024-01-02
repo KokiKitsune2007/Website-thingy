@@ -8,7 +8,7 @@ h1 {
 }
 .blink {
   font-family: 'Pixelify Sans', sans-serif;
-  animation blinker 1s linear infinite;
+  animation: blinker 1s linear infinite;
   color: #008080;
 @ keyframes blinker {
   50% {
